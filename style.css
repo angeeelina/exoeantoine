@@ -1,0 +1,46 @@
+.logo {
+	height: 50px;
+	width: 50px;
+	object-fit: cover;
+	border-radius: 20px;
+}
+
+H1	{
+   color: #274c77;
+   font-size: 60px;
+   font-family: "Playfair Display", serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+ }
+EM {
+   color: #461220;
+   font-size: 20px;
+ }
+H2 {
+   color: #00509d;
+   font-size: 40px;
+ }
+strong {
+    color: #274c77;
+    font-size: 20px;
+ }
+body {
+    color: rgb(10, 10, 10 / 1.0);
+    background: #caf0f8;
+ }
+body {
+   font-family: Playfair Display, serif;
+ }
+
+.medium-img {
+	height: 400px;
+	width: 400px;
+	object-fit: cover;
+	border-radius: 200px;
+}
+div {
+    background-color: #bfdbf7;
+    border: solid #022b3a;
+
+}
